@@ -1,0 +1,1 @@
+# GeoGauge - Geospatial dataset quality evaluation tool
